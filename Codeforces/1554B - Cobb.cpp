@@ -10,7 +10,7 @@ const int MAX = 1e7 + 1;
 #define el '\n'
 //idea is the maximum value we can obtain is i * n
 //ans min is n-1 * n - k * (2n) 
-//so i must be greater than or equal n-2k to be a value larger than n-1 * n 
+//so i must be greater than or equal n-2k to be a value larger than min of n-1 * n 
 
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
