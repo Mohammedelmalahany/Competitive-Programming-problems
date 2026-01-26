@@ -6,6 +6,7 @@ This repository contains my solutions to various problems from different Online 
 - UVA
 - Codeforce
 - AtCoder
+- SPOJ
 ## Language
 - C++
 
